@@ -110,7 +110,7 @@ Add this below Heroku Toolbelt setting to swap the PHP you use on the command li
 	export PATH="$(brew --prefix homebrew/php/php55)/bin:$PATH"
 
 
-Now to start your local dev environment run to start WordPress on http://localhost:5000/
+Now to start your local dev environment run to start WordPress on [http://localhost:5000/](http://localhost:5000/)
 	
 	foreman start
 
