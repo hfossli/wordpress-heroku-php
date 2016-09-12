@@ -112,7 +112,7 @@ Add this below Heroku Toolbelt setting in .bashrc or .bash_profile to swap the P
 
 Now to start your local dev environment run to start WordPress on http://localhost:5000/
 	
-	foreman start
+	heroku local
 
 If you don't have foreman installed, you can do so with `gem install foreman` assuming you have Ruby running on your system. If it fails, try adding sudo in front of the command.
 
